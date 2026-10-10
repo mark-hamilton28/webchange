@@ -1,0 +1,20 @@
+# Websites to watch. Add an entry per site; no code changes needed.
+#
+#   name:     short unique id (used for the snapshot filename and email subject)
+#   url:      page to check
+#   selector: optional CSS selector - only watch this part of the page
+#             (e.g. "main", "#lineup", ".artist-list"). Cuts out noise from
+#             headers, footers, ads and countdown timers.
+#   ignore:   optional list of regexes; matching text is removed before comparing
+#   enabled:  optional, set to false to pause a site
+
+sites:
+  # Main page: says "LINEUP & SCHEDULE coming soon" until the lineup is announced.
+  - name: porchfest
+    url: https://adamsmorgan.com/porchfest
+    selector: "#page-content"
+
+  # Lineup page: currently shows last season's bands; will change when the new lineup posts.
+  - name: porchfest-lineup
+    url: https://adamsmorgan.com/porchfest/lineup
+    selector: "#page-content"
