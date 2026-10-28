@@ -29,28 +29,88 @@ You can also see
 the complete list of bands by name
 .
 0
-2424 18th St
-PM
-Crush Funk
-2424 18th St NW
+Featured Stage
+Marie Reed Stage
+1:00 PM
+Marilyn Hucek
+Solo Latin
+2:15 PM
+Future Band
+3:00 PM
+Ruff Ridaz Drum Line
+3:30 - 4:45 PM
+Oddisee
+2201 18th St NW
 Show On Map
 Get Directions
-0
-1822 Biltmore St.
-1822 Biltmore Street NW
+1
+The Silva
+1:00 PM
+North Cap Band
+R&B/Pop
+12:00 PM
+Deek Beats
+Instrumental Hip-Hop
+2:00 PM
+Poster Boy
+Alt Rock
+3:00 PM
+Alderr
+Indie Rock
+4:00 PM
+Femi and the Foundation
+Funk Rock/Hip-Hop
+1630 Columbia Rd NW
 Show On Map
 Get Directions
-0
-Shanklin Hall
-2314 18th St NW
+2
+1698 Lanier Place
+12:00 - 2:00 PM
+Bob Schwartz Quartet
+Jazz
+2:00 - 4:00 PM
+DC Starlight Jazz Orchestra
+Jazz
+4:00 PM
+Mutual Agreement
+Jazz
+1698 Lanier Pl NW
 Show On Map
 Get Directions
-0
-1828 California
-1828 California St NW
+3
+2719 Ontario
+1:00 PM
+Didier
+Indie Pop
+12:00 PM
+The Recessionists
+Alt/Indie Rock
+2:00 PM
+Freezer Burn
+classic rock, alt rock, blues, originals
+3:00 PM
+Kids Table
+Indie Pop
+4:00 PM
+Spoonfed
+Indie Rock
+2719 Ontario Rd NW
 Show On Map
 Get Directions
-0
+4
+Joseph's House
+12:00 PM
+In Threes
+Pop
+1730 Lanier Pl NW
+Show On Map
+Get Directions
+5
+2801 Adams Mill Road
+2801 Adams Mill Rd NW
+Show On Map
+Get Directions
+6
 Walter Pierce Park
 1:00 PM
 Stephen Sol & The 7
@@ -70,52 +130,7 @@ Indie Folk Rock & Pop
 2630 Adams Mill Rd NW
 Show On Map
 Get Directions
-1
-Featured Stage
-Marie Reed Stage
-1:00 PM
-Marilyn Hucek
-Solo Latin
-2:15 PM
-Future Band
-3:00 PM
-Ruff Ridaz Drum Line
-3:30 - 4:45 PM
-Oddisee
-2201 18th St NW
-Show On Map
-Get Directions
-3
-The Silva
-1630 Columbia Rd NW
-Show On Map
-Get Directions
-5
-2719 Ontario
-2719 Ontario Rd NW
-Show On Map
-Get Directions
-5
-1698 Lanier Place
-1698 Lanier Pl NW
-Show On Map
-Get Directions
-6
-Joseph's House
-1730 Lanier Pl NW
-Show On Map
-Get Directions
 7
-2801 Adams Mill Road
-2801 Adams Mill Rd NW
-Show On Map
-Get Directions
-11
-1750 Euclid
-1750 Euclid St NW
-Show On Map
-Get Directions
-12
 The LINE DC
 2:00 PM
 Blue Belt
@@ -127,37 +142,69 @@ reggae, funk, & ska with a latin flavor
 1770 Euclid St NW
 Show On Map
 Get Directions
-14
+8
+1750 Euclid
+1750 Euclid St NW
+Show On Map
+Get Directions
+9
 1925 Biltmore Street
 1925 Biltmore Street NW
 Show On Map
 Get Directions
-17
+10
+Madam's Organ
+2461 18th St NW
+Show On Map
+Get Directions
+11
+1822 Biltmore St.
+1822 Biltmore Street NW
+Show On Map
+Get Directions
+12
 2032 Allen Place
 2032 Allen Place, NW
 Show On Map
 Get Directions
-18
+13
+2424 18th St
+PM
+Crush Funk
+2424 18th St NW
+Show On Map
+Get Directions
+14
 Kalorama Park
 1865 Kalorama Rd NW
 Show On Map
 Get Directions
-19
+15
 Highroad Hotel
 1800 Belmont Rd NW
 Show On Map
 Get Directions
-23
-2009 18th Street
-2009 18th St NW
+16
+Shanklin Hall
+2314 18th St NW
 Show On Map
 Get Directions
-24
+18
+1828 California
+1828 California St NW
+Show On Map
+Get Directions
+19
 1836 California
 1836 California St NW
 Show On Map
 Get Directions
-25
+20
+2009 18th Street
+2009 18th St NW
+Show On Map
+Get Directions
+21
 El Tamarindo
 1785 Florida Ave NW
 Show On Map
