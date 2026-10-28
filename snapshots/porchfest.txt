@@ -15,12 +15,12 @@ click here to apply
 (no food vendors please)
 On this page you'll find all the info you need to enjoy DC's favorite neighborhood music festival including performance schedules, band info, special PorchFest discounts at dozens of businesses, and a map tying all that together.
 100+ Bands,
-25+ Stages
+20+ Stages
 Saturday, November 7
 12:00 PM - 5:00 PM
 .
 An afternoon of musical talent spanning a range of genres. Whether you've got an ear for bluegrass or a love of classic rock, PorchFest's music talent has a tune for you.
-LINEUP & SCHEDULE coming soon
+LINEUP
 Specials on Food & Drinks & More!
 Dozens of Adams Morgan businesses offer special deals, discounts and promotions during Porchfest. Be sure to visit one of our three Info Booths to get your free wristband to cash in on the deals!
 view specials
@@ -154,13 +154,13 @@ Blues
 4:00 PM
 Mustard Tiger
 Indie Folk Rock & Pop
-2630 Adams Mill Rd NW
+2700 Adams Mill Rd NW
 Show On Map
 Get Directions
 7
 The LINE DC
 2:00 PM
-Blue Belt
+Bluebelt
 3:00 PM
 G. Whyte
 5:00 PM
@@ -248,9 +248,21 @@ Show On Map
 Get Directions
 14
 Kalorama Park
+1:00 PM
+Frewt
+Indie Fusion
 12:00 PM
 Lip Service
 Rock
+2:00 PM
+Shawn Parsons & The Secret Service
+Southern Rock
+3:00 PM
+Gotcha Covered
+Cover Band, Classic Rock
+4:00 PM
+Half Sour
+Rock/Pop
 1865 Kalorama Rd NW
 Show On Map
 Get Directions
@@ -264,26 +276,81 @@ Show On Map
 Get Directions
 16
 Shanklin Hall
-2314 18th St NW
+2:00 PM
+Perf3ction Band
+Go-Go
+4:00 PM
+If These Walls Could Talk
+R&B
+2325 18th St NW
+Show On Map
+Get Directions
+17
+Marie Reed Field
+12:00 - 5:00 PM
+School of Rock House Bands
+1755 California St NW
 Show On Map
 Get Directions
 18
 1828 California
+1:00 PM
+Laundry List
+indie rock
+3:00 PM
+Hathway Band
+Classic/Indie Rock
 1828 California St NW
 Show On Map
 Get Directions
 19
 1836 California
+12:00 PM
+Paulie Boy Blues
+Blues/Rock
+2:00 PM
+No Sir E
+Electronic/Lofi
+4:00 PM
+Josh Blocker Band
+Rock
 1836 California St NW
 Show On Map
 Get Directions
 20
 2009 18th Street
+1:00 PM
+Fruitt
+Indie Rock
+12:00 PM
+Tahele
+Alt R&B
+2:00 PM
+Hays Dowdy
+Experimental Pop
+4:00 PM
+MajorKEY Collective
+Soul Fusion
 2009 18th St NW
 Show On Map
 Get Directions
 21
 El Tamarindo
+1:00 PM
+Natalie Karnaukh & Tomáš Drgoň
+Ukranian Folk Jazz
+12:00 PM
+Piedmonsters
+Blues
+2:00 PM
+Kid Named Rhi
+Indie Pop
+3:00 PM
+The Soul Service
+Soul/R&B
+4:00 PM
+Dogs of Puerto Rico
+Alt Rock/Funk
 1785 Florida Ave NW
 Show On Map
 Get Directions
