@@ -1,14 +1,12 @@
 {
   "porchfest": {
     "alerted": false,
-    "failures": 1,
-    "last_changed": "2026-10-29T16:19:22+00:00",
-    "last_error": "403 Client Error: Forbidden for url: https://adamsmorgan.com/porchfest"
+    "failures": 0,
+    "last_changed": "2026-10-29T16:19:22+00:00"
   },
   "porchfest-lineup": {
     "alerted": false,
-    "failures": 1,
-    "last_changed": "2026-10-29T16:19:24+00:00",
-    "last_error": "403 Client Error: Forbidden for url: https://adamsmorgan.com/porchfest/lineup"
+    "failures": 0,
+    "last_changed": "2026-10-29T16:19:24+00:00"
   }
 }
